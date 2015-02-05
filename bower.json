@@ -1,0 +1,34 @@
+{
+  "name": "angular-sugar-dates",
+  "version": "0.0.1",
+  "homepage": "https://github.com/davestone/angular-sugar-dates",
+  "authors": [
+    "Dave Stone <dave@davecstone.com>"
+  ],
+  "description": "Angular Directives & Filters for Sugar.js.",
+  "main": "angular-sugar-dates.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular",
+    "angularjs",
+    "date",
+    "datetime",
+    "time",
+    "relative",
+    "sugar"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.2.24",
+    "angular-mocks": "~1.2.24",
+    "sugar-date": "~1.4.1"
+  }
+}
